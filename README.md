@@ -1,4 +1,4 @@
-Random Quran Verse Fetcher
+## 🔵 Random Quran Verse Fetcher
 
 
 
